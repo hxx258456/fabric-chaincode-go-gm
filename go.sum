@@ -140,11 +140,10 @@ github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5m
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
-github.com/hxx258456/ccgo v0.0.0-20220815135058-aea1800993ba/go.mod h1:c5Yem3zCkaO+avGDEgqJbnOJJQITGIJ9Cs6hAZKE6fg=
 github.com/hxx258456/ccgo v0.0.1 h1:YtOmvLmxyCmYeiq4QJgftlWZnFYo3dEdcTOEmRYptec=
 github.com/hxx258456/ccgo v0.0.1/go.mod h1:c5Yem3zCkaO+avGDEgqJbnOJJQITGIJ9Cs6hAZKE6fg=
-github.com/hxx258456/fabric-protos-go-gm v0.0.0-20220815141714-2836819001d3 h1:CofDJ8iYTO4D8dzJdsUSaIXALdaB1vGQGmfyBUq+ytE=
-github.com/hxx258456/fabric-protos-go-gm v0.0.0-20220815141714-2836819001d3/go.mod h1:qNDlIUCqXWdCPQxtIeC/zwSWAVCrgP0R2lX6d5tLZjY=
+github.com/hxx258456/fabric-protos-go-gm v0.0.1 h1:N7NgAoPOar6TcSDcW01BZR8F7eI8sa1anDceP3CAn8I=
+github.com/hxx258456/fabric-protos-go-gm v0.0.1/go.mod h1:fUmXfLgBhmw37/t/3wZ56gXL/CFyE8PA+NN+y+z1wgE=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/jpillora/backoff v1.0.0/go.mod h1:J/6gKK9jxlEcS3zixgDgUAsiuZ7yrSoa/FX5e0EB2j4=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
